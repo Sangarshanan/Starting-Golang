@@ -1,2 +1,3 @@
 # Starting-Golang
-Exploring the land of Gophers 
+
+![alt img](https://blog.golang.org/gopher/gopher.png)
